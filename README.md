@@ -1,12 +1,5 @@
 # Dietary Management System
 
-## Overview
-The **Dietary Management System** is a Java-based application developed as part of the **Object-Oriented Application Development (UECS1144)** course at **Universiti Tunku Abdul Rahman (UTAR)**, Lee Kong Chian Faculty of Engineering and Science, during the June 2023 Trimester.
-
-This system assists users in managing their diets effectively by providing structured diet plans, grocery lists, meal preparation instructions, and nutrient-based meal categorizations.
-
----
-
 ## 1. Introduction
 
 ### 1.1 Purpose
