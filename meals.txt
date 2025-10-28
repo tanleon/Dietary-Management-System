@@ -1,0 +1,54 @@
+Almond Milk|N|Use almond milk as a dairy-free milk alternative. To enjoy, simply pour it over your cereal or use it in recipes as a substitute for regular milk.|60|1|2|5
+Almonds|Y|Enjoy almonds as a healthy snack. Almonds are a great source of protein and healthy fats. Grab a handful when you need a quick energy boost.|160|6|8|13
+Apple|Y|Enjoy apples as a healthy snack. Apples are a nutritious and portable option for a quick and satisfying bite. Slice them up for a convenient on-the-go treat.|80|1|22|0
+Artichoke Hearts|Y|Enjoy artichoke hearts as part of a meal. These tender hearts can be added to salads, pasta dishes, or eaten on their own as a flavorful side.|90|3|18|2
+Avocado|Y|Cut and enjoy avocado as is. Avocado is creamy and packed with healthy fats. Simply slice it and add a dash of salt and pepper for a tasty treat.|120|2|8|10
+Avocado Salad|Y|Mix avocado, lettuce, tomatoes, red onion, cilantro, lime juice, and salt to create a delicious avocado salad. This salad is both refreshing and nutritious.|200|2|9|19
+Bacon and Eggs|N|Fry bacon until it's crispy and scramble eggs to perfection. A classic breakfast dish that's both savory and satisfying.|220|12|1|18
+Baklava|Y|Prepare baklava with layers of flaky phyllo dough, ground pistachios, rich butter, sweet sugar, and drizzled honey. It's a delightful dessert with a perfect balance of flavors and textures.|320|4|35|20
+Berries|Y|Enjoy mixed berries as a snack. Berries are a colorful and antioxidant-rich treat. Mix them in yogurt or oatmeal for a wholesome snack.|50|1|12|0
+Brown Rice|Y|Cook brown rice with water. Brown rice is a nutritious whole grain that pairs well with a variety of dishes, from stir-fries to casseroles.|215|5|45|2
+Butter|N|Use butter for cooking and baking. Butter adds a rich and buttery flavor to your recipes, making them extra delicious.|100|0|0|12
+Cauliflower Mash|Y|Steam cauliflower until tender, then blend it with butter, heavy cream, garlic, salt, and pepper to create creamy mashed cauliflower. A tasty alternative to traditional mashed potatoes.|80|2|15|0
+Celery Sticks|Y|Enjoy celery sticks as a crunchy and low-calorie snack. Celery is great for dipping in hummus or peanut butter for added flavor.|10|0|2|0
+Chicken Breast|Y|Season chicken breast with your favorite spices and grill until cooked. Chicken breast is a lean and versatile protein option.|220|30|0|5
+Coffee|N|Grind coffee beans and brew with hot water. A classic morning ritual, coffee provides a caffeine kick to start your day.|50|2|0|5
+Couscous|Y|Cook couscous with water. Couscous is a quick-cooking grain that can be served as a side dish or as a base for salads and main courses.|200|5|40|1
+Coconut Oil|N|Use coconut oil for cooking and baking. Coconut oil adds a delightful coconut flavor to your recipes and works well for sautéing and baking.|120|0|0|14
+Cucumber Salad|Y|Mix cucumbers, red onion, parsley, lemon juice, and olive oil to create a refreshing and tangy cucumber salad. It's a perfect side for warm weather.|70|2|15|0
+Feta Cheese|Y|Enjoy feta cheese in salads or dishes. Feta cheese has a tangy flavor that pairs wonderfully with Mediterranean-inspired recipes.|70|4|1|5
+Grapes|Y|Enjoy grapes as a healthy and naturally sweet snack. Grapes are a convenient and satisfying option for when you're craving something sweet.|70|1|18|0
+Greek Salad|Y|Mix fresh lettuce, ripe tomatoes, crisp cucumbers, briny olives, creamy feta cheese, and drizzle with olive oil to create a classic Greek salad.|150|6|12|10
+Greek Yogurt|Y|Enjoy Greek yogurt as a creamy and protein-rich snack or pair it with fruits for added flavor. Greek yogurt is a versatile dairy product.|120|10|10|5
+Grilled Chicken|Y|Season chicken breast with your favorite spices and grill it to perfection. Grilled chicken is a lean and flavorful protein choice.|180|30|0|5
+Grilled Lamb|Y|Season lamb and grill it until it's cooked to your desired level of doneness. Grilled lamb is a savory and satisfying meat option.|280|25|0|18
+Grilled Salmon|Y|Season salmon and grill it until it's cooked to perfection. Grilled salmon is a flavorful and heart-healthy seafood choice.|280|25|2|18
+Grilled Shrimp|Y|Season shrimp and grill them until they're tender and flavorful. Grilled shrimp make for a delicious appetizer or main dish.|180|25|2|8
+Green Tea|N|Steep green tea leaves in hot water. Green tea is known for its antioxidants and potential health benefits.|0|0|0|0
+Hummus|Y|Blend chickpeas, tahini, lemon juice, garlic, and olive oil to create creamy hummus. Hummus is a versatile dip or spread for pita bread, veggies, or sandwiches.|70|2|10|2
+Kalamata Olives|Y|Enjoy Kalamata olives as a savory and briny snack or add them to your favorite salads for an extra burst of flavor.|80|1|3|8
+Lentil Soup|Y|Cook lentils with water and seasoning to create a hearty and nutritious lentil soup. It's a comforting and satisfying dish.|200|10|30|4
+Low-Fat Yogurt|Y|Enjoy low-fat yogurt as a creamy and protein-packed snack or pair it with fruits for added flavor. Low-fat yogurt is a lighter dairy option.|110|10|15|1
+Mixed Berries|Y|Enjoy mixed berries as a healthy and colorful snack. They are rich in vitamins, antioxidants, and natural sweetness, making them a guilt-free treat.|60|2|15|0
+Nuts|Y|Enjoy assorted nuts as a crunchy and protein-rich snack. Nuts are a great source of healthy fats and can satisfy your hunger between meals.|160|5|8|14
+Oatmeal|Y|Prepare oatmeal with milk and sweeten it with honey for a hearty and wholesome breakfast. Oatmeal is a great way to start your day with energy and fiber.|150|5|27|2
+Olive Oil|N|Use olive oil for cooking and dressing. Olive oil adds a Mediterranean flair to your dishes and is perfect for salad dressings and sautéing.|120|0|0|14
+Omelette|Y|Whisk eggs, milk, salt, and pepper. Cook in a pan to create a delicious omelette. Customize it with your favorite fillings like cheese, veggies, or ham.|250|12|5|18
+Orzo Salad|Y|Cook orzo pasta and mix it with cherry tomatoes, cucumbers, red onion, olives, feta cheese, and olive oil to create a flavorful orzo salad. Great for picnics and gatherings.|180|4|35|2
+Pistachios|Y|Enjoy pistachios as a healthy and satisfying snack. Pistachios are not only delicious but also packed with protein, fiber, and healthy fats.|160|6|8|13
+Quinoa|Y|Cook quinoa with water. Quinoa is a versatile and nutrient-rich grain that can be used as a base for salads, bowls, or a side dish.|220|8|40|4
+Quinoa Salad|Y|Cook quinoa and mix it with fresh tomatoes, crisp cucumbers, fragrant parsley, zesty lemon juice, and drizzle with olive oil for a delightful quinoa salad. A great option for a light and nutritious meal.|180|5|35|3
+Red Wine|N|Enjoy red wine in moderation. Red wine offers a complex and fruity flavor profile. Savor it during special occasions or as a complement to a fine meal.|120|0|4|0
+Roasted Red Peppers|Y|Enjoy roasted red peppers as part of a flavorful meal. They add a smoky and sweet flavor to dishes like sandwiches, salads, or pasta.|45|1|10|0
+Salad|Y|Mix fresh lettuce, ripe tomatoes, and crisp cucumbers. Dress with olive oil for a healthy and refreshing salad. Customize it with your favorite toppings and vinaigrette.|150|5|10|12
+Smoothie|N|Blend banana, strawberries, yogurt, and almond milk to create a creamy and fruity smoothie. A nutritious and delicious option for breakfast or a snack.|180|6|15|8
+Spinach Pie|Y|Prepare spinach pie with layers of spinach, onion, feta cheese, and flaky phyllo dough. This savory pie is perfect for brunch or as a side dish for dinner.|220|7|25|11
+Spinach Salad|Y|Mix fresh spinach, ripe tomatoes, red onion, creamy feta cheese, crunchy walnuts, and drizzle with balsamic vinaigrette to create a flavorful spinach salad. A perfect balance of textures and flavors.|100|4|16|3
+Steak|Y|Season steak and grill or pan-sear it to your desired doneness. Steak is a hearty and satisfying protein option, perfect for meat lovers.|250|30|0|14
+Steamed Asparagus|Y|Steam asparagus until tender and season it to taste. Asparagus is a nutritious side dish that pairs well with various main courses.|40|3|8|0
+Steamed Broccoli|Y|Steam broccoli until it's tender and season it to your liking. Broccoli is a healthy and versatile vegetable that complements many dishes.|55|3|0|3
+Sweet Potato|Y|Bake or boil sweet potatoes and season them as desired. Sweet potatoes are naturally sweet and packed with vitamins and fiber, making them a nutritious choice.|120|2|26|0
+Tuna Salad|Y|Mix tuna, mayonnaise, celery, and onion to create a classic tuna salad. Enjoy it as a sandwich filling or as a topping for salads.|230|20|8|12
+Vegetable Soup|Y|Cook vegetable soup with assorted vegetables and seasoning. Vegetable soup is comforting and a great way to incorporate a variety of veggies into your diet.|120|4|22|1
+Water|N|Stay hydrated with plain water. Water is essential for overall health and well-being, so make sure to drink enough throughout the day.|0|0|0|0
+Whole Wheat Bread|Y|Enjoy whole wheat bread as part of a meal. Whole wheat bread is a nutritious choice for sandwiches, toasts, or as a side for soups and salads.|90|3|15|1

@@ -1,0 +1,71 @@
+Almond Butter|Y|180|6|6|16
+Almond Milk|N|60|1|2|5
+Almonds|Y|160|6|8|13
+Apple|Y|80|1|22|0
+Apples|Y|80|1|22|0
+Artichoke Hearts|Y|90|3|18|2
+Avocado|Y|120|2|8|10
+Avocado Salad|Y|200|2|9|19
+Bacon and Eggs|N|220|12|1|18
+Baklava|Y|320|4|35|20
+Berries|Y|50|1|12|0
+Brown Rice|Y|215|5|45|2
+Brown Rice|Y|215|5|45|2
+Butter|Y|100|0|0|12
+Carrot Sticks|Y|40|1|10|0
+Carrots|Y|40|1|10|0
+Cauliflower Mash|Y|80|2|15|0
+Celery Sticks|Y|10|0|2|0
+Cheddar Cheese|Y|110|7|1|9
+Chicken Breast|Y|220|30|0|5
+Coffee|N|50|2|0|5
+Coconut Milk|Y|90|1|1|9
+Coconut Oil|N|120|0|0|14
+Creamed Spinach|Y|180|5|6|16
+Cucumber Salad|Y|70|2|15|0
+Eggplant Parmesan|Y|250|10|25|14
+Feta Cheese|Y|70|4|1|5
+Greek Salad|Y|150|6|12|10
+Greek Yogurt|Y|120|10|10|5
+Grapes|Y|70|1|18|0
+Grilled Chicken|Y|180|30|0|5
+Grilled Lamb|Y|280|25|0|18
+Grilled Salmon|Y|280|25|2|18
+Grilled Salmon|Y|280|25|2|18
+Grilled Shrimp|Y|180|25|2|8
+Hummus|Y|70|2|10|2
+Kalamata Olives|Y|80|1|3|8
+Lentil Soup|Y|200|10|30|4
+Low-Fat Yogurt|Y|110|10|15|1
+Low-Sodium Tomato Soup|Y|90|2|17|2
+Macadamia Nuts|Y|200|2|4|21
+Mixed Berries|Y|60|2|15|0
+Mixed Greens|Y|15|1|3|0
+Nuts|Y|160|5|8|14
+Oatmeal|Y|150|5|27|2
+Olive Oil|N|120|0|0|14
+Orzo Salad|Y|180|4|35|2
+Pistachios|Y|160|6|8|13
+Pork Chop|Y|280|30|0|18
+Pork Rinds|Y|150|8|0|13
+Quinoa|Y|220|8|40|4
+Quinoa Salad|Y|180|5|35|3
+Red Wine|N|120|0|4|0
+Roasted Red Peppers|Y|45|1|10|0
+Salad|Y|150|5|10|12
+Sausage|Y|220|12|1|18
+Smoothie|N|180|6|15|8
+Spinach Pie|Y|220|7|25|11
+Spinach Salad|Y|100|4|16|3
+Steak|Y|250|30|0|14
+Steamed Asparagus|Y|40|3|8|0
+Steamed Broccoli|Y|55|3|11|0
+Strawberries|Y|50|1|12|0
+Sweet Potato|Y|120|2|26|0
+Tuna Salad|Y|230|20|8|12
+Tuna Sandwich|N|300|25|20|12
+Tzatziki|Y|60|2|4|4
+Vegetable Soup|Y|120|4|22|1
+Water|N|0|0|0|0
+Whole Wheat Bread|Y|90|3|15|1
+Zucchini Noodles|Y|40|1|7|4

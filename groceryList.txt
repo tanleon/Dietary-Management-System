@@ -1,0 +1,4 @@
+Sweet Potato,5
+Chicken Breast ,2
+Low-Fat Yogurt,4
+Whole Wheat Bread,2
