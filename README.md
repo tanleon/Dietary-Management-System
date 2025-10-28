@@ -86,12 +86,7 @@ The diet information used in this system is adapted from the article:
 
 ---
 
-## 6. UML Class Diagram
-The UML Class Diagram for the system was created using **Enterprise Architect (EA)**, a modeling tool by Sparx Systems.
-
----
-
-## 7. Sample Output Overview
+## 6. Sample Output Overview
 
 ### Profile & Main Menu
 - Displays user profile upon startup.
